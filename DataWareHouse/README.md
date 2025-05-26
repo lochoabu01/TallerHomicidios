@@ -20,3 +20,6 @@ insert_dim_sexos.sql
 insert_dim_zonas.sql  
 
 2. Modelo ER: Modelo Entidad Relación de Copo de Nieve del Data Warehouse
+
+![ModeloEntidadRelacionDWH](https://github.com/user-attachments/assets/31518e01-c991-4d94-a680-71398f4286c1)
+
