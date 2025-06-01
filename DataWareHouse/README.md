@@ -18,6 +18,7 @@ insert_dim_meses.sql
 insert_dim_municipios.sql  
 insert_dim_sexos.sql  
 insert_dim_zonas.sql  
+insert_fac_homicidios.sql  
 
 2. Modelo ER: Modelo Entidad Relación de Copo de Nieve del Data Warehouse
 
